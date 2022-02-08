@@ -2,7 +2,7 @@
 # See http://docs.solidus.io/Spree/AppConfiguration.html for details
 
 # Solidus version defaults for preferences that are not overridden
-Spree.load_defaults '3.2.0.alpha'
+#Spree.load_defaults '3.2.0.alpha'
 
 Spree.config do |config|
   # Core:
